@@ -1,7 +1,7 @@
 {
     "description": "A minimal blogging theme for Stackbit",
     "header": {
-        "title": "",
+        "title": "Momentos intensitos",
         "tagline": "Minimal and clean blog theme",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
