@@ -1,7 +1,7 @@
 {
     "description": "A minimal blogging theme for Stackbit",
     "header": {
-        "title": "Momentos intensitos",
+        "title": "Esquinitas",
         "tagline": "Os prometo que soy normal",
         "background_img": "images/wall_tg1.jpg",
         "has_nav": true,
